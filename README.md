@@ -1,8 +1,8 @@
 Gaianet Farming Throughputs Use Autochat Bot
 
-git clone https://github.com/sipalingnode/autochatgaianet
+git clone https://github.com/TesnetD/autochatgaianet.git
 
-" cd autochatgaianet "
+"" cd autochatgaianet ""
 
 gaianet stop
 
